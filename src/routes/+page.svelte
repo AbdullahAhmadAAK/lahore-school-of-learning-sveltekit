@@ -1,6 +1,5 @@
-<!-- add a background image -->
-<div class="section1">
-  <nav class="bg-white border-gray-200 dark:bg-gray-900">
+<div class="section1 bg-[#000000] opacity-70">
+  <nav class=" border-gray-200 dark:bg-gray-900">
     <div
       class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4"
     >
@@ -43,7 +42,7 @@
         id="navbar-default"
       >
         <ul
-          class="font-medium flex flex-col p-4 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700 text-[#cecdcd]
+          class="font-medium flex flex-col p-4 md:p-0 mt-4 border border-gray-100 rounded-lg md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700 text-[#cecdcd]
 "
         >
           <li>
@@ -113,96 +112,121 @@
     </p>
     <button
       type="button"
-      class="text-white hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800 w-36 h-10 ml-40 mt-12 rounded color"
+      class="text-white hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800 w-36 h-10 ml-40 mt-12 rounded bg-[#0193dc]"
       >Contact us</button
     >
   </div>
 </div>
-<!-- adjust it into a flex div -->
 <div class="flex flex-row">
   <div class="flex p-2">
-    <div class="flex flex-col">
-      <div class="flex p-2">
-        <img
-          src="home/principal.png"
-          alt="principal"
-          width="439.71px"
-          class="h-80 ml-44 mt-10"
-        />
+    <div class="flex flex-row">
+      <div class="flex flex-col p-2 ml-44 mt-[323px]" style="gap: 20px">
+        <span
+          class="w-2.5 h-2.5 bg-[#0193dc] rounded[50%] inline-block rounded-[50%]"
+        ></span>
+        <span
+          class="w-2.5 h-2.5 bg-[#0193dc] rounded[50%] inline-block rounded-[50%]"
+        ></span>
+        <span
+          class="w-2.5 h-2.5 bg-[#0193dc] rounded[50%] inline-block rounded-[50%]"
+        ></span>
       </div>
 
-      <img src="/home/circle.png" alt="circle" class="w-14 h-14 ml-96 circle" />
-      <img src="/home/play.png" alt="play" class="w-4 h-5 ml-96 play" />
-      <span class="dots"></span>
-      <span class="dots"></span>
-      <span class="dots"></span>
-      <span class="dots"></span>
-      <span class="dots"></span>
-      <span class="dots"></span>
+      <div class="flex p-2">
+        <div class="flex flex-col">
+          <div class="flex p-2">
+            <img
+              src="home/principal.png"
+              alt="principal"
+              class="h-80 w-[1000px] mt-10"
+            />
+          </div>
+          <div class="flex p-2" style="gap: 20px">
+            <span
+              class="w-2.5 h-2.5 bg-[#0193dc] rounded[50%] inline-block rounded-[50%]"
+            ></span>
+            <span
+              class="w-2.5 h-2.5 bg-[#0193dc] rounded[50%] inline-block rounded-[50%]"
+            ></span>
+            <span
+              class="w-2.5 h-2.5 bg-[#0193dc] rounded[50%] inline-block rounded-[50%]"
+            ></span>
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
-  <div class="flex p-2">
-    <div class="flex flex-col flexbox">
-      <div class="flex p-2">
-        <h1
-          class="w-96 h-24 heading1 font-serif font-medium text-3xl tracking-[0.3px]"
-        >
-          Sambutan Kepala Sekolah SMP Negeri 1 Cibadak
-        </h1>
-      </div>
-      <div class="flex p-2">
-        <p
-          class="h-16 font-seif font-bold text-xs tracking-[0.3px] paragraph1 mt-10"
-        >
-          Puji dan syukur mari kita panjatkan kehadirat Allah SWT. Yang
-          senantiasa dengan sifat kasih dan sayangnya banyak memberikan nikmat
-          ...
-        </p>
-      </div>
-      <div class="flex p-2">
-        <button
-          type="button"
-          class="text-white hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800 w-44 h-10 m-t 10 rounded color button1"
-          >Lebih Lanjut</button
-        >
+
+    <div class="flex p-2">
+      <div class="flex flex-col">
+        <div class="flex p-2">
+          <h1
+            class="w-96 h-24 text-[#0c101a] mt-14 font-serif font-medium text-3xl tracking-[0.3px] ml-72"
+          >
+            Sambutan Kepala Sekolah SMP Negeri 1 Cibadak
+          </h1>
+        </div>
+        <div class="flex p-2">
+          <p
+            class="h-16 font-seif font-bold text-xs tracking-[0.3px] text-[#919fae] ml-72 mt-10"
+          >
+            Puji dan syukur mari kita panjatkan kehadirat Allah SWT. Yang
+            senantiasa dengan sifat kasih dan sayangnya banyak memberikan nikmat
+            ...
+          </p>
+        </div>
+        <div class="flex p-2">
+          <button
+            type="button"
+            class="text-white hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800 w-44 h-10 m-t 10 rounded bg-[#0193dc] ml-72"
+            >Lebih Lanjut</button
+          >
+        </div>
       </div>
     </div>
   </div>
 </div>
+
 <!-- adjust it into a flex div -->
-<div class="d-flex flex-row">
-  <div class="d-flex p-2">
+<div class="flex flex-row">
+  <div class="flex flex-col p-2">
     <h1
-      class="w-44 h-9 mt-10 ml-44 font-serif font-bold text-xl tracking-[0.3px] heading2"
+      class="w-44 h-9 mt-10 ml-44 font-serif font-bold text-xl tracking-[0.3px] text-[#0c101a]
+"
     >
       Profil Sekolah
     </h1>
     <p
-      class="w-96 h-24 mt-10 ml-44 font-serif font-bold text-sm tracking-[0.5px] paragraph2"
+      class="w-96 h-24 mt-10 ml-44 font-serif font-bold text-xs tracking-[0.5px] text-[#919fae]
+"
     >
       Di samping adalah profil sekolah kami secara keseluruhan dari mulai bagian
       depan hingga seluruh fasilitas yang terdapat disekolah kami kami akan ...
     </p>
     <button
       type="button"
-      class="text-white hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800 w-44 h-10 m-t 10 ml-44 rounded color"
+      class="text-white hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800 w-44 h-10 m-t 10 ml-44 rounded bg-[#0193dc]"
       >Lebih Lanjut</button
     >
   </div>
-  <div class="d-flex p-2">
-    <img src="home/house.png" alt="house" class="w-4 h-4 mt-10 house" />
-    <img src="home/dot1.png" alt="dot1" class="w-2 h-2 border-2" />
-    <img src="home/dot2.png" alt="dot2" class="w-2 h-2 border-2" />
-    <img src="home/dot3.png" alt="dot3" class="w-2 h-2 border-2" />
-    <img src="home/dot4.png" alt="dot4" class="w-2 h-2 border-2" />
-    <img src="home/dot5.png" alt="dot5" class="w-2 h-2 border-2" />
-    <img src="home/dot6.png" alt="dot6" class="w-2 h-2 border-2" />
-    <img src="home/circle2.png" alt="circle2" class="w-9 h-9 circle2" />
-
+  <div class="flex flex-col p-2">
     <h1
-      class="w-20 h-7 mt-10 font-serif font-bold text-xl tracking-[0.3px] card1"
+      class="w-20 h-7 font-serif font-bold text-xl tracking-[0.3px] text-[#0c101a]"
     >
       Fasilitas
+    </h1>
+    <p
+      class="w-56 h-12 mt-10 text-[#919fae]
+  font-serif font-normal text-xs tracking-[0.3px]"
+    >
+      Lorem ipsum dolor sit amet adipcing aqua lorem ipsum.
+    </p>
+  </div>
+  <div class="flex p-2">
+    <h1
+      class="w-20 h-7 mt-10 font-serif font-bold text-xl text-[#0c101a]
+  tracking-[0.3px]"
+    >
+      Sejarah
     </h1>
     <p
       class="w-56 h-12 mt-10 card2 font-serif font-normal text-xs tracking-[0.3px]"
@@ -210,130 +234,34 @@
       Lorem ipsum dolor sit amet adipcing aqua lorem ipsum.
     </p>
   </div>
-  <img src="home/paper.png" alt="paper" class="w-10 h-10" />
-  <h1
-    class="w-20 h-7 mt-10 font-serif font-bold text-xl card1 tracking-[0.3px]"
-  >
-    Sejarah
-  </h1>
-  <p
-    class="w-56 h-12 mt-10 card2 font-serif font-normal text-xs tracking-[0.3px]"
-  >
-    Lorem ipsum dolor sit amet adipcing aqua lorem ipsum.
-  </p>
-  <div class="d-flex p-2">
+  <div class="flex p-2">
     <h1
-      class="w-16 h-7 mt-10 font-serif font-bold text-xl tracking-[0.3px] card3"
+      class="w-16 h-7 mt-10 font-serif font-bold text-xl tracking-[0.3px] text-[#0c101a]"
     >
       Lokasi
     </h1>
     <p
-      class="w-56 h-12 mt-10 font-serif font-normal text-xs tracking-[0.3px] card4"
+      class="w-56 h-12 mt-10 font-serif font-normal text-xs tracking-[0.3px] text-[#919fae]"
     >
       Lorem ipsum dolor sit amet adipcing aqua lorem ipsum.
     </p>
-    <img src="home/badge.png" alt="badge" class="w-9 h-11 border-2:" />
-    <h1
-      class="w-20 h-7 mt-10 font-serif font-bold text-xl tracking-[0.3px] card3"
-    >
-      Prestasi
-    </h1>
-    <p
-      class="w-56 h-12 mt-10 font-serif font-normal text-xs tracking-[0.3px] card4"
-    >
-      Lorem ipsum dolor sit amet adipcing aqua lorem ipsum.
-    </p>
+    <div class="d-flex p-2">
+      <h1
+        class="w-20 h-7 mt-10 font-serif font-bold text-xl tracking-[0.3px] text-[#0c101a]"
+      >
+        Prestasi
+      </h1>
+      <p
+        class="w-56 h-12 mt-10 font-serif font-normal text-xs tracking-[0.3px] card4 ml-[1022px]"
+      >
+        Lorem ipsum dolor sit amet adipcing aqua lorem ipsum.
+      </p>
+    </div>
   </div>
 </div>
 
 <style>
-  .color {
-    background-color: #0193dc;
-  }
   .section1 {
-    background-image: url ("home/background.png");
-    background-color: #000000;
-    opacity: 70%;
-  }
-  .dots {
-    height: 10px;
-    width: 10px;
-    background-color: #0193dc;
-    border-radius: 50%;
-    display: inline-block;
-  }
-  .heading1 {
-    margin-left: 290px;
-    margin-top: 60px;
-    color: #0c101a;
-  }
-  .paragraph1 {
-    margin-left: 290px;
-    color: #919fae;
-  }
-  .button1 {
-    margin-left: 290px;
-  }
-  .circle {
-    background-color: #ffffff;
-    z-index: 2;
-  }
-  .heading2 {
-    color: #0c101a;
-  }
-  .paragraph2 {
-    color: #919fae;
-  }
-  .card1 {
-    margin-left: 732px;
-    color: #0c101a;
-  }
-  .card2 {
-    margin-left: 732px;
-    color: #919fae;
-  }
-  .card3 {
-    margin-left: 1022px;
-    color: #0c101a;
-  }
-  .card4 {
-    margin-left: 1022px;
-    color: #919fae;
-  }
-  .house {
-    margin-left: 756.45px;
-    color: #60c1f8;
-  }
-  .yellow {
-    color: #f8c301;
-  }
-  .circle2 {
-    margin-left: 744px;
-  }
-  .dot1 {
-    margin-left: 760.26px;
-  }
-  .dot2 {
-    margin-left: 744px;
-  }
-  .dot3 {
-    margin-left: 750.61px;
-  }
-  .dot4 {
-    margin-left: 760.26px;
-  }
-  .dot5 {
-    margin-left: 773.73px;
-  }
-  .dot6 {
-    margin-left: 780.34px;
-  }
-  .circle {
-    background-color: green;
-  }
-  .play {
-    background-color: green;
-  }
-  .flexbox {
+    background-image: url("home/background.png");
   }
 </style>
