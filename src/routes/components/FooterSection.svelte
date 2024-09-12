@@ -85,7 +85,7 @@
     <hr class="h-px w-[1000px] my-8 bg-[#E6E6E7] border-[1px] ml-20" />
     <!-- copyright declaration -->
     <p
-      class="w-[460px] h-6 font-serif font-normal text-xs tracking-[0.3px] ml-20 mt-10"
+      class="w-[460px] h-6 font-serif font-normal text-xs tracking-[0.3px] ml-20 mb-6"
     >
       Copyright &#169; SMP Negeri 1 Cibadak. All right Reserved. Hosting By
       IDCloudHost

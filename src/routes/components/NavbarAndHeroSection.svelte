@@ -51,7 +51,7 @@
           <li>
             <a
               href="#Home"
-              class="block py-2 px-3 bg-blue-700 rounded md:bg-transparent md:p-0 dark:text-white md:dark:text-blue-500 h-4 w-11 font-serif font-bold text-sm tracking-[0.2px] text-[#cecdcd]"
+              class="block py-2 px-3 bg-blue-700 rounded md:bg-transparent md:p-0 dark:text-white md:dark:text-blue-500 h-4 w-11 font-serif font-bold text-sm tracking-[0.2px] text-[#FFFFFF]"
               aria-current="page">Home</a
             >
           </li>
