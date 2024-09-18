@@ -51,6 +51,7 @@
       >
         Batch of 2016
       </p>
+
       <svg
         xmlns="http://www.w3.org/2000/svg"
         fill="none"
@@ -65,6 +66,8 @@
           d="M17.25 8.25 21 12m0 0-3.75 3.75M21 12H3"
         />
       </svg>
+      <hr class="h-px w-[370px] bg-[#E6E6E7] border-[1px] ml-4 mt-2" />
+
       <div class="flex flex-row">
         <div class="flex flex-col p-2">
           <h1
@@ -98,6 +101,8 @@
           </svg>
         </div>
       </div>
+      <hr class="h-px w-[370px] bg-[#E6E6E7] border-[1px] ml-4" />
+
       <div class="flex flex-row">
         <div class="flex flex-col p-2">
           <h1
@@ -132,6 +137,8 @@
           </svg>
         </div>
       </div>
+      <hr class="h-px w-[370px] bg-[#E6E6E7] border-[1px] ml-4" />
+
       <div class="flex flex-row">
         <div class="flex flex-col p-2">
           <h1
@@ -165,8 +172,10 @@
           </svg>
         </div>
       </div>
+      <hr class="h-px w-[370px] bg-[#E6E6E7] border-[1px] ml-4" />
     </div>
   </div>
+
   <div class="flex flex-col">
     <div class="flex flex-row">
       <div class="flex p-2">
@@ -204,6 +213,8 @@
         </h1>
       </div>
     </div>
+    <hr class="h-px bg-[#E6E6E7] border-[1px] ml-20" />
+
     <div class="flex flex-row">
       <div class="flex p-2">
         <img
@@ -234,12 +245,14 @@
         </svg>
 
         <h1
-          class="w-40 h-5 font-serif font-bold text-base tracking-[0.3px] ml-4"
+          class="w-44 h-5 font-serif font-bold text-base tracking-[0.3px] ml-4"
         >
           Calendar 2024-2025
         </h1>
       </div>
     </div>
+    <hr class="h-px bg-[#E6E6E7] border-[1px] ml-20" />
+
     <div class="flex flex-row">
       <div class="flex p-2">
         <img src="home/badge.png" alt="badge" class="w-10 h-14 mt-10 ml-20" />
@@ -272,5 +285,6 @@
         </h1>
       </div>
     </div>
+    <hr class="h-px bg-[#E6E6E7] border-[1px] ml-20" />
   </div>
 </div>

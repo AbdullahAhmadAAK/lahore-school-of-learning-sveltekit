@@ -1,5 +1,5 @@
 <footer class="bg-[#F9F9F9]">
-  <div class="flex flex-row mt-40">
+  <div class="flex flex-row mt-10">
     <div class="flex flex-col p-2 mt-10">
       <!-- icon -->
       <img src="home/logo.png" alt="logo2" class="w-14 h-16 ml-20" />
@@ -65,16 +65,20 @@
         Social Media
       </h2>
       <!-- social media pages -->
-      <div class="flex flex-row mt-4 gap-2">
-        <div class="flex p-2 border-2 rounded-lg border-[#E6E6E7] w-8 h-8">
-          <img
-            src="home/facebook.png"
-            alt="facebook"
-            class="w-1.5 h-2.5 ml-[3px]"
-          />
-        </div>
-        <div class="flex p-2 border-2 rounded-lg border-[#E6E6E7] w-8 h-8">
-          <img src="home/instagram.png" alt="instagram" class="w-2.5 h-2.5" />
+      <div class=" mt-4">
+        <div
+          class="flex p-2 border-2 rounded-lg border-[#E6E6E7] w-8 h-8 ml-10"
+        >
+          <a
+            href="https://www.facebook.com/p/Lahore-School-of-Learning-100063815240221/"
+            target="_blank"
+          >
+            <img
+              src="home/facebook.png"
+              alt="facebook"
+              class="w-1.5 h-2.5 ml-[3px]"
+            />
+          </a>
         </div>
       </div>
     </div>

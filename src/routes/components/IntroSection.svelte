@@ -1,8 +1,8 @@
-<div class="flex flex-row ml-40">
+<div class="flex flex-row ml-10">
   <div class="flex p-2">
     <div class="flex flex-row">
       <!-- vertical dots -->
-      <div class="flex flex-col p-2 ml-20 mt-[323px]" style="gap: 20px">
+      <div class="flex flex-col p-2 mt-[323px]" style="gap: 20px">
         <span
           class="w-2.5 h-2.5 bg-[#0193dc] rounded[50%] inline-block rounded-[50%]"
         ></span>
@@ -17,9 +17,9 @@
       <div class="flex p-2">
         <div class="flex flex-col">
           <div class="flex p-2">
-            <!-- image of principal -->
+            <!--  image of principal -->
             <img
-              src="home/principal.png"
+              src="home/principal2.jpg"
               alt="principal"
               class="h-80 w-[439.71px] mt-10"
             />
@@ -40,7 +40,7 @@
       </div>
     </div>
 
-    <div class="flex p-2">
+    <div class="flex p-2 ml-56">
       <div class="flex flex-col">
         <div class="flex p-2">
           <!-- title -->

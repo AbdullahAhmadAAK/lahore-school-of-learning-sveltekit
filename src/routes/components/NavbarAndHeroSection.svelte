@@ -41,7 +41,7 @@
         </svg>
       </button>
       <div
-        class="hidden w-full md:block md:w-auto mr-[200px]"
+        class="hidden w-full md:block md:w-auto mr-[200px] bg-black"
         id="navbar-default"
       >
         <ul
@@ -135,6 +135,6 @@
 
 <style>
   .section1 {
-    background-image: url("home/background.png");
+    background-image: url("home/background1.png");
   }
 </style>
