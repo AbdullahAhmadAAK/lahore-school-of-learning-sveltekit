@@ -54,47 +54,59 @@
               class="block py-2 px-3 bg-blue-700 rounded md:bg-transparent md:p-0 dark:text-white md:dark:text-blue-500 h-4 w-11 font-serif font-bold text-sm tracking-[0.2px] text-[#FFFFFF]"
               aria-current="page">Home</a
             >
+            <img
+              src="home/white.png"
+              alt="white"
+              class="w-4 h-0.5 rounded ml-3 mt-3"
+            />
           </li>
           <li>
             <a
-              href="#About"
-              class="block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent h-4 w-10 font-serif font-normal text-sm tracking-[0.2px] text-[#cecdcd]
-  ">About</a
+              href="#About Us"
+              class="block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent h-4 w-16 font-serif font-normal text-sm tracking-[0.2px] text-[#cecdcd]
+  ">About Us</a
             >
           </li>
           <li>
             <a
-              href="#Guru"
-              class="block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent h-4 w-9 font-serif font-normal text-sm tracking-[0.2px] text-[#cecdcd]
-  ">Guru</a
+              href="#Curriculum"
+              class="block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent h-4 w-14 font-serif font-normal text-sm tracking-[0.2px] text-[#cecdcd]
+  ">Curriculum</a
             >
           </li>
           <li>
             <a
-              href="#Siswa"
-              class="block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent h-4 w-9 font-serif font-normal text-sm tracking-[0.2px] text-[#cecdcd]
-  ">Siswa</a
+              href="#Events"
+              class="block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent h-4 w-16 font-serif font-normal text-sm tracking-[0.2px] text-[#cecdcd] ml-10
+  ">Events</a
             >
           </li>
           <li>
             <a
-              href="#Pendaftaran"
-              class="block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent h-4 w-20 font-serif font-normal text-sm tracking-[0.2px] text-[#cecdcd]
-  ">Pendaftaran</a
+              href="#Activities"
+              class="block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent h-4 w-16 font-serif font-normal text-sm tracking-[0.2px] text-[#cecdcd]
+">Activities</a
             >
           </li>
           <li>
             <a
-              href="#lainya"
-              class="block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent h-4 w-10 font-serif font-normal text-sm tracking-[0.2px] text-[#cecdcd]
-  ">lainya</a
+              href="#Policies"
+              class="block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent h-4 w-16 font-serif font-normal text-sm tracking-[0.2px] text-[#cecdcd]
+  ">Policies</a
             >
           </li>
           <li>
             <a
-              href="#Kontak"
-              class="block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent h-4 w-12 font-serif font-normal text-sm tracking-[0.2px] text-[#cecdcd]
-  ">Kontak</a
+              href="#Admissions"
+              class="block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent h-4 w-16 font-serif font-normal text-sm tracking-[0.2px] text-[#cecdcd]
+  ">Admission</a
+            >
+          </li>
+          <li>
+            <a
+              href="#Careers"
+              class="block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent h-4 w-16 font-serif font-normal text-sm tracking-[0.2px] text-[#cecdcd]
+  ">Careers</a
             >
           </li>
         </ul>
@@ -111,12 +123,11 @@
     <p
       class="w-(697px) h-28 mt-12 ml-40 font-serif font-bold text-2xl tracking-[0.2px] text-white"
     >
-      SMP N 1 Cibadak (Cerdas Beretika) Ceria, Empati,<br /> Rasional, Damai,
-      Aktif, Sabar, Bersih, Elok, Tulus, Iman,<br /> Konsiste, Amanah.
+      Bright Minds, <br /> Bright Futures
     </p>
     <button
       type="button"
-      class="text-white hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium text-sm px-5 py-2.5 me-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800 w-36 h-10 ml-40 mt-12 mb-20 rounded bg-[#0193dc]"
+      class="text-white hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium text-sm px-5 py-2.5 me-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800 w-36 h-10 ml-40 mb-20 rounded bg-[#0193dc]"
       >Contact us</button
     >
   </div>

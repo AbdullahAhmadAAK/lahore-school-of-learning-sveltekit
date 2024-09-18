@@ -2,72 +2,70 @@
   <div class="flex flex-row mt-40">
     <div class="flex flex-col p-2 mt-10">
       <!-- icon -->
-      <img src="home/logo2.png" alt="logo2" class="w-14 h-16 ml-20" />
+      <img src="home/logo.png" alt="logo2" class="w-14 h-16 ml-20" />
       <!-- contact info -->
       <p
         class="w-72 h-12 mt-10 ml-20 font-serif font-normal text-xs tracking-[0.3px]"
       >
-        Jl. Siliwangi No 123, Cibadak, Cibadak, Sukabumi, Jawa Barat 43351,
-        Indonesia, (0266)531333
+        House، 5 Street 112, Block H Gulberg III, Lahore, Punjab
       </p>
       <h2
-        class="w-40 h-6 mt-2 ml-20 font-serif font-bold text-xs tracking-[0.3px]"
+        class="w-56 h-6 mt-2 ml-20 font-serif font-bold text-xs tracking-[0.3px]"
       >
-        info@smpn1cibadak.sch.id
+        Iram Qazi: +92 423 5442234
       </h2>
+      <h2
+        class="w-64 h-6 mt-2 ml-20 font-serif font-bold text-xs tracking-[0.3px]"
+      >
+        Wajeeha Abdul Qadir: +92 423 5831452
+      </h2>
+      <h2
+        class="w-56 h-6 mt-2 ml-20 font-serif font-bold text-xs tracking-[0.3px]"
+      >
+        Office: +92 300 4536657
+      </h2>
+
       <h2
         class="w-44 h-6 ml-20 mt-1 font-serif font-bold text-xs tracking-[0.3px]"
       >
-        smpn1cbd_kabsi@yahoo.co.id
+        Email: info@lsl.edu.pk
       </h2>
     </div>
     <!-- different tabs -->
     <div class="flex flex-col p-2 gap-2 mt-10 ml-20">
       <h2 class="w-14 h-5 font-serif font-bold text-base tracking-[0.3px]">
-        Jelajah
+        Home
       </h2>
       <h2 class="w-20 h-4 font-serif font-bold text-sm tracking-[0.2px] mt-4">
-        Sambutan
+        About Us
       </h2>
       <h2 class="w-32 h-4 font-serif font-bold text-sm tracking-[0.2px]">
-        Profil Sekolah
+        Curriculum
       </h2>
       <h2 class="w-11 h-4 font-serif font-bold text-sm tracking-[0.2px]">
-        Berita
-      </h2>
-      <h2 class="w-11 h-4 font-serif font-bold text-sm tracking-[0.2px]">
-        Galeri
+        Events
       </h2>
     </div>
     <div class="flex flex-col p-2 gap-2 mt-10 ml-20">
       <h2 class="w-36 h-6 font-serif font-bold text-base tracking-[0.3px]">
-        Halaman Umum
+        Activities
       </h2>
       <h2 class="w-20 h-4 font-serif font-bold text-sm tracking-[0.2px] mt-4">
-        Data Guru
+        Policies
       </h2>
       <h2 class="w-44 h-4 font-serif font-bold text-sm tracking-[0.2px]">
-        PPDB SMPN 1 Cibadak
+        Admission
       </h2>
       <h2 class="w-32 h-4 font-serif font-bold text-sm tracking-[0.2px]">
-        Panduan PPDB
-      </h2>
-      <h2 class="w-12 h-4 font-serif font-bold text-sm tracking-[0.2px]">
-        Lokasi
-      </h2>
-      <h2 class="w-14 h-4 font-serif font-bold text-sm tracking-[0.2px]">
-        Kontak
+        Careers
       </h2>
     </div>
     <div class="flex flex-col p-2 gap-2 mt-10 ml-16">
       <h2 class="w-28 h-5 font-serif font-bold text-base tracking-[0.3px]">
-        Media Sosial
+        Social Media
       </h2>
       <!-- social media pages -->
       <div class="flex flex-row mt-4 gap-2">
-        <div class="flex p-2 border-2 rounded-lg border-[#E6E6E7] w-8 h-8">
-          <img src="home/twitter.png" alt="twitter" class="w-3.5 h-3" />
-        </div>
         <div class="flex p-2 border-2 rounded-lg border-[#E6E6E7] w-8 h-8">
           <img
             src="home/facebook.png"
@@ -87,8 +85,7 @@
     <p
       class="w-[460px] h-6 font-serif font-normal text-xs tracking-[0.3px] ml-20 mb-6"
     >
-      Copyright &#169; SMP Negeri 1 Cibadak. All right Reserved. Hosting By
-      IDCloudHost
+      &#169 2017 Lahore School of Learning. All rights reserved.
     </p>
   </div>
 </footer>

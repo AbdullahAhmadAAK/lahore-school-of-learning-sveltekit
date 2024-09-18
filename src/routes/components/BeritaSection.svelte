@@ -4,45 +4,8 @@
     <h1
       class="w-56 h-9 mt-20 ml-20 font-serif font-bold text-xl tracking-[0.3px]"
     >
-      Berita dan Agenda
+      News and Awards
     </h1>
-    <div class="flex p-2">
-      <form class="max-w-md mx-auto">
-        <label
-          for="default-search"
-          class="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white"
-          >Search</label
-        >
-        <div class="relative">
-          <div
-            class="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none"
-          >
-            <svg
-              class="w-4 h-4 text-gray-500 dark:text-gray-400"
-              aria-hidden="true"
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 20 20"
-            >
-              <path
-                stroke="currentColor"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z"
-              />
-            </svg>
-          </div>
-          <input
-            type="search"
-            id="default-search"
-            class="block w-full p-4 ps-10 text-sm text-gray-900 rounded bg-gray-50 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 font-serif font-normal tracking-[0.3px] mt-14"
-            placeholder="Search"
-            required
-          />
-        </div>
-      </form>
-    </div>
   </div>
 </div>
 <!-- news and updates -->
@@ -51,38 +14,42 @@
   <div class="flex flex-row p-2">
     <div class="flex flex-col p-2">
       <img
-        src="home/learning.png"
-        alt="learning"
+        src="home/highachiever1.jpg"
+        alt="highachiever1"
         class="w-44 h-40 ml-20 mt-10"
       />
       <img
-        src="home/classroom.png"
-        alt="classroom"
+        src="home/excellence.png"
+        alt="excellence"
         class="w-44 h-40 ml-20 mt-10"
       />
       <img
-        src="home/students.png"
-        alt="students"
+        src="home/annoucements.jpg"
+        alt="annoucements"
         class="w-44 h-40 ml-20 mt-10"
       />
-      <img src="home/online.png" alt="online" class="w-44 h-40 ml-20 mt-10" />
+      <img
+        src="home/safeguards.jpg"
+        alt="safeguards"
+        class="w-44 h-40 ml-20 mt-10"
+      />
     </div>
     <div class="flex flex-col p-2">
       <h1
-        class="w-36 h-5 mt-10 font-serif font-bold text-sm tracking-[0.3px] ml-[19px]"
+        class="w-56 h-5 mt-10 font-serif font-bold text-sm tracking-[0.3px] ml-[19px]"
       >
-        Belajar di Rumah
+        High Achievement Award
       </h1>
       <p
         class="w-[370px] h-12 mt-4 font-serif font-normal text-xs tracking-[0.3px] text-[#919FAE] ml-[19px]"
       >
-        Lorem ipsum dolor sit amet adipcing amet adipcingamet adipci aqua lorem
-        ipsum.
+        Zainab Shafqat has been one of the most remarkable students studying at
+        LSL.
       </p>
       <p
-        class="w-11 h-6 font-serif font-normal text-xs tracking-[0.3px] text-[#919FAE] ml-[19px]"
+        class="w-20 h-6 font-serif font-normal text-xs tracking-[0.3px] text-[#919FAE] ml-[19px]"
       >
-        20 Juni
+        Batch of 2016
       </p>
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -103,18 +70,17 @@
           <h1
             class="w-60 h-11 mt-16 font-serif font-bold text-base tracking-[0.3px] ml-4"
           >
-            Kegiatan Belajar mengajar di Rumah
+            Excellence in O-Levels
           </h1>
           <p
             class="w-[370px] h-12 mt-4 font-serif font-normal text-xs tracking-[0.3px] text-[#919FAE] ml-4"
           >
-            Lorem ipsum dolor sit amet adipcing amet adipcingamet adipci aqua
-            lorem ipsum.
+            Many of our students have gotten excellent results in O-Levels.
           </p>
           <p
-            class="w-11 h-6 font-serif font-normal text-xs tracking-[0.3px] text-[#919FAE] ml-4"
+            class="w-20 h-6 font-serif font-normal text-xs tracking-[0.3px] text-[#919FAE] ml-4"
           >
-            20 Juni
+            A*'s and A's
           </p>
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -137,18 +103,18 @@
           <h1
             class="w-60 h-11 mt-10 font-serif font-bold text-base tracking-[0.3px] ml-4"
           >
-            Kegiatan Belajar mengajar di Rumah
+            Annoucements
           </h1>
           <p
             class="w-[370px] h-12 mt-4 font-serif font-normal text-xs tracking-[0.3px] text-[#919FAE] ml-4"
           >
-            Lorem ipsum dolor sit amet adipcing amet adipcingamet adipci aqua
-            lorem ipsum.
+            We make annoucements about important events and other changes
+            regarding school.
           </p>
           <p
-            class="w-11 h-6 font-serif font-normal text-xs tracking-[0.3px] text-[#919FAE] ml-4"
+            class="w-16 h-6 font-serif font-normal text-xs tracking-[0.3px] text-[#919FAE] ml-4"
           >
-            20 Juni
+            Stay tuned!
           </p>
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -171,18 +137,17 @@
           <h1
             class="w-64 h-5 mt-10 font-serif font-bold text-base tracking-[0.3px] ml-4"
           >
-            Kegiatan Pembelajaran Daring
+            LSL Student Safeguards
           </h1>
           <p
             class="w-[370px] h-12 mt-10 font-serif font-normal text-xs tracking-[0.3px] text-[#919FAE] ml-4"
           >
-            Lorem ipsum dolor sit amet adipcing amet adipcingamet adipci aqua
-            lorem ipsum.
+            We care about our students.
           </p>
           <p
-            class="w-11 h-6 font-serif font-normal text-xs tracking-[0.3px] text-[#919FAE] ml-4"
+            class="w-28 h-6 font-serif font-normal text-xs tracking-[0.3px] text-[#919FAE] ml-4"
           >
-            20 Juni
+            Online Safeguards
           </p>
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -205,13 +170,17 @@
   <div class="flex flex-col">
     <div class="flex flex-row">
       <div class="flex p-2">
-        <img src="home/logo.png" alt="logo" class="w-8 h-16 mt-10 ml-20" />
+        <img
+          src="home/council.png"
+          alt="council"
+          class="w-8 h-16 mt-10 ml-20"
+        />
       </div>
       <div class="flex flex-col p-2">
         <p
           class="w-24 h-6 mt-10 font-serif font-normal text-sm tracking-[0.3px] text-[#919FAE] ml-4"
         >
-          01 - 06 - 2021
+          15 - 10 - 2024
         </p>
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -231,19 +200,23 @@
         <h1
           class="w-72 h-5 font-serif font-bold text-base tracking-[0.3px] ml-4"
         >
-          Deklarasi Sekolah Ramah Anak
+          Students' Council
         </h1>
       </div>
     </div>
     <div class="flex flex-row">
       <div class="flex p-2">
-        <img src="home/logo.png" alt="logo" class="w-8 h-16 mt-10 ml-20" />
+        <img
+          src="home/calendar.jpg"
+          alt="calendar"
+          class="w-8 h-16 mt-10 ml-20"
+        />
       </div>
       <div class="flex flex-col p-2">
         <p
           class="w-24 h-6 mt-10 font-serif font-normal text-sm tracking-[0.3px] text-[#919FAE] ml-4"
         >
-          01 - 06 - 2021
+          01 - 06 - 2024
         </p>
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -263,19 +236,19 @@
         <h1
           class="w-40 h-5 font-serif font-bold text-base tracking-[0.3px] ml-4"
         >
-          Pembagian Ijazah
+          Calendar 2024-2025
         </h1>
       </div>
     </div>
     <div class="flex flex-row">
       <div class="flex p-2">
-        <img src="home/study.png" alt="study" class="w-10 h-14 mt-10 ml-20" />
+        <img src="home/badge.png" alt="badge" class="w-10 h-14 mt-10 ml-20" />
       </div>
       <div class="flex flex-col p-2">
         <p
           class="w-24 h-6 mt-10 font-serif font-normal text-sm tracking-[0.3px] text-[#919FAE] ml-2"
         >
-          01 - 06 - 2021
+          18 - 09 - 2024
         </p>
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -295,7 +268,7 @@
         <h1
           class="w-72 h-5 font-serif font-bold text-base tracking-[0.3px] ml-2"
         >
-          Pemberitahuan PPDB 2020/2021
+          Awards
         </h1>
       </div>
     </div>

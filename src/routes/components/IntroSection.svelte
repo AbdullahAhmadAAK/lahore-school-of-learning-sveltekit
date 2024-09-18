@@ -1,4 +1,4 @@
-<div class="flex flex-row">
+<div class="flex flex-row ml-40">
   <div class="flex p-2">
     <div class="flex flex-row">
       <!-- vertical dots -->
@@ -47,25 +47,24 @@
           <h1
             class="w-96 h-24 text-[#0c101a] mt-14 font-serif font-medium text-3xl tracking-[0.3px]"
           >
-            Sambutan Kepala Sekolah SMP Negeri 1 Cibadak
+            School Principal
           </h1>
         </div>
         <div class="flex p-2">
           <!-- introduction -->
           <p
-            class="h-16 font-seif font-bold text-xs tracking-[0.3px] text-[#919fae] mt-10 w-[350px]"
+            class="h-16 font-seif font-bold text-xs tracking-[0.3px] text-[#919fae] w-[350px]"
           >
-            Puji dan syukur mari kita panjatkan kehadirat Allah SWT. Yang
-            senantiasa dengan sifat kasih dan sayangnya banyak memberikan nikmat
-            ...
+            I am Mrs Iram Qazi and I have been the principal of this school
+            since 2002.
           </p>
         </div>
         <div class="flex p-2">
-          <!-- placeholder for "Read More" button -->
+          <!-- "Read More" button -->
           <button
             type="button"
             class="text-white hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-bold text-sm px-5 py-2.5 me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800 w-44 h-10 m-t 10 rounded bg-[#0193dc]"
-            >Lebih Lanjut</button
+            >Read More</button
           >
         </div>
       </div>
