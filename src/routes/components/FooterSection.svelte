@@ -1,6 +1,6 @@
-<footer class="bg-[#F9F9F9]">
-  <div class="flex flex-row mt-10">
-    <div class="flex flex-col p-2 mt-10">
+<footer class="bg-[#F9F9F9] justify-center">
+  <div class="flex flex-row mt-10 justify-center">
+    <div class="flex flex-col p-2 mt-10 ">
       <!-- icon -->
       <img src="home/logo.png" alt="logo2" class="w-14 h-16 ml-20" />
       <!-- contact info -->
@@ -83,11 +83,11 @@
       </div>
     </div>
   </div>
-  <div>
+  <div class="flex justify-center flex-col items-center">
     <hr class="h-px w-[1000px] my-8 bg-[#E6E6E7] border-[1px] ml-20" />
     <!-- copyright declaration -->
     <p
-      class="w-[460px] h-6 font-serif font-normal text-xs tracking-[0.3px] ml-20 mb-6"
+      class=" h-6 font-serif font-normal text-xs tracking-[0.3px] ml-20 mb-6"
     >
       &#169 2017 Lahore School of Learning. All rights reserved.
     </p>

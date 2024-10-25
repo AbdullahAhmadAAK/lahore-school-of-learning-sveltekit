@@ -1,4 +1,4 @@
-<div class="flex flex-row">
+<div class="flex flex-row justify-center">
   <!-- search bar -->
   <div class="flex p-2">
     <h1
@@ -10,7 +10,7 @@
 </div>
 <!-- news and updates -->
 
-<div class="flex flex-row">
+<div class="flex flex-row justify-center">
   <div class="flex flex-row p-2">
     <div class="flex flex-col p-2">
       <img

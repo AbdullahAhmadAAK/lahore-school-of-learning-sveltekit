@@ -1,4 +1,4 @@
-<div class="flex flex-row bg-[#F9FBFD]">
+<div class="flex flex-row bg-[#F9FBFD] justify-center">
   <div class="flex flex-col p-2">
     <!-- title -->
     <h1

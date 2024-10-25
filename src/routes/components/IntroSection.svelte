@@ -1,4 +1,4 @@
-<div class="flex flex-row ml-10">
+<div class="flex flex-row ml-10 justify-center">
   <div class="flex p-2">
     <div class="flex flex-row">
       <!-- vertical dots -->
